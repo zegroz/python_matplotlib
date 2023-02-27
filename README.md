@@ -9,3 +9,7 @@ data analysis with python and matplotlib
 - install pandas and numpy for using data structures and data analysis
   - `pip3 install pandas`
   - `pip3 install numpy`
+
+
+- simple_data.py
+simple_data.png![grafik](https://user-images.githubusercontent.com/5676113/221660368-0c898de3-548b-42b9-9429-57dd9cba7613.png)
