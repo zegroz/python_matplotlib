@@ -10,7 +10,14 @@ data analysis with python and matplotlib
   - `pip3 install pandas`
   - `pip3 install numpy`
 
+---
 
-simple_data.png![grafik](https://user-images.githubusercontent.com/5676113/221670075-4ccff00f-784b-4367-bfe6-425cc36571bc.png)
+- simple_data
+<img src="https://user-images.githubusercontent.com/5676113/221670075-4ccff00f-784b-4367-bfe6-425cc36571bc.png" width="600">
+simple_data.py
+
+---
+
+
 
 
