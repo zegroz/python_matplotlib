@@ -11,5 +11,5 @@ data analysis with python and matplotlib
   - `pip3 install numpy`
 
 
-- simple_data.py
-simple_data.png![grafik](https://user-images.githubusercontent.com/5676113/221660368-0c898de3-548b-42b9-9429-57dd9cba7613.png)
+simple_data.png![Uploading grafik.png…]()
+
