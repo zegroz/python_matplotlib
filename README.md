@@ -6,6 +6,6 @@ data analysis with python and matplotlib
 
   - `python3 -m pip install -U pip`
   - `python3 -m pip install -U matplotlib`
-- install pandas and numpy to use data structures and data analysis
+- install pandas and numpy for using data structures and data analysis
   - `pip3 install pandas`
   - `pip3 install numpy`
